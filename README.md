@@ -11,7 +11,7 @@ Special thanks to Megan Chan, Dr. Leslie DeChurch, and Dr. Noshir Contractor for
 ## Repository Descriptions
 
 >[!NOTE]
->Since the research involves classified human data, this repository contains only code snippets that are available to the public.
+>Since the research involves classified human data, this repository contains only code snippets that can be made available to the public.
 
 ### data:
 
