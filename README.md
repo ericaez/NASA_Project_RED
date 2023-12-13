@@ -6,7 +6,7 @@ In short, this research follows a three-step approach:
 2. I generated binary network ties by comparing with session-level averages and performed descriptive analysis.
 3. I fine-tuned and interpreted ALAAM models to investigate how the SMMs network influences contextualized performances.
 
-Special thanks to Prof. Noshir Contractor and Megan Chan for their guidance and research assistance, Leslie DeChurch and Alina Lungeanu for their leading discoveries in shared team cognition, and NASA HERA for providing the classified data.
+Special thanks to Megan Chan, Dr. Leslie DeChurch, and Dr. Noshir Contractor for their guidance and research assistance, Dr. Leslie DeChurch and Dr. Alina Lungeanu for their leading discoveries in shared team cognition, and NASA HERA for providing the classified data.
 
 ## Repository Descriptions
 
