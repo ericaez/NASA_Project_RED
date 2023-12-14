@@ -3,7 +3,7 @@ During my time working as a Data Science Intern at the [SONIC Research Group](ht
 
 In short, this research follows a three-step approach:
 1. I calculated the Euclidean distance between designated survey responses to measure the strength of team-related and task-related shared cognition.
-2. I generated binary network ties of within-team and between-team shared cognition and performed descriptive analysis.
+2. I binarized network ties for within-team and between-team shared cognition and performed descriptive analysis.
 3. I fine-tuned and interpreted ALAAM models to investigate how the cognitive network in complex MTS influences contextualized performances.
 
 Special thanks to Megan Chan and Dr. Noshir Contractor for their guidance and research assistance, Dr. Leslie DeChurch and Dr. Alina Lungeanu for their leading discoveries in shared team cognition, and NASA HERA for providing the classified data.
